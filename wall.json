@@ -1,0 +1,60 @@
+{
+	"wallpapers": [
+		{
+			"name": "bleu",
+			"author": "Loraine P",
+			"url": "https://raw.githubusercontent.com/loraine19/Freezieswall/master/bleu.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright LP"
+		},
+		{
+			"name": "charbon",
+			"author": "Loraine P",
+			"url": "https://raw.githubusercontent.com/loraine19/Freezieswall/master/charbon.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright LP"
+		},
+		{
+			"name": "ciel",
+			"author": "Loraine P",
+			"url": "https://raw.githubusercontent.com/loraine19/Freezieswall/master/ciel.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright LP"
+		},
+		{
+			"name": "marron",
+			"author": "Loraine P",
+			"url": "https://raw.githubusercontent.com/loraine19/Freezieswall/master/marron.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright LP"
+		},
+		{
+			"name": "or",
+			"author": "Loraine P",
+			"url": "https://raw.githubusercontent.com/loraine19/Freezieswall/master/or.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright LP"
+		},
+		{
+			"name": "perle",
+			"author": "Loraine P",
+			"url": "https://raw.githubusercontent.com/loraine19/Freezieswall/master/perle.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright LP"
+		},
+		{
+			"name": "rubis",
+			"author": "Loraine P",
+			"url": "https://raw.githubusercontent.com/loraine19/Freezieswall/master/rubis.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright LP"
+		},
+		{
+			"name": "vert",
+			"author": "Loraine P",
+			"url": "https://raw.githubusercontent.com/loraine19/Freezieswall/master/vert.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright LP"
+		}
+	]
+}
